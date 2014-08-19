@@ -6,14 +6,15 @@
 #+TITLE: Guide to Restaurants
 #+CATEGORY: todo
 
-* Introduction
+* Guide to Restaurants
 
 Victoria has a very large number of food establishments (restaurants, bars, coffee-shops). As expected, quality varies tremendously. Fortunately price does
 not. For peoeple who come from Europe, Japan or expensive American cities, Victoria will feel cheap.
 
-Of course locals have a different view of restaurants than visitors. As Anthony Bourdain says [[https://www.youtube.com/watch?v%3D4rMBIZ2maEI]["Do not eat the hotel food"]] and instead try what the locals food.
+Of course locals have a different view of restaurants than visitors. As Anthony Bourdain says "Do not eat the hotel food" and instead try what the locals eat.
 
-Any list has a bias. Mine is that I prefer lunch food to dinner food. I go out for lunch approximately 10 to 20 times more than dinner time. So keep that in mind.
+Any list has a bias. Mine is that I prefer lunch food to dinner food. I go out for lunch approximately 10 to 20 times more than dinner time. So keep that in
+mind. And of course all below is simply my opinion.
 
 My ranking:
 
@@ -21,10 +22,17 @@ My ranking:
 - Reg. I am a regular (I would go there at least once a month --for lunch)
 - Ok. I will eat there if the need comes but I don't think about going there on my own
 
-Unless indicated otherwise, I would it in any of these places.
+Unless indicated otherwise, I would eat in any of these places.  They are in no particular order.
 
-They are in no particular order.
+** On ingredients
 
+The world is global but there are some local staples:
+
+- Salmon
+- Halibut
+- Dungeness Crab
+- Albacore tuna
+- Venison (deer)
 
 ** Restaurants
 
@@ -82,6 +90,8 @@ These are good for tourists because of location, and the food is decent.
   value for the food (under $20) but please order a real dish, not a sandwich (they are not as good). Tell them Daniel recommended you to go and that you come
   from far, far away to try their food. Jamie is a master cooking fish. On Saturday he serves (what I call his signature dish) Poached eggs on mackarel. It is
   an _amazing_ dish.
+
+- Uchida. Uchida and Relish define what west coast food is about. It is Japanese food with local accents. Cheap and open until food is gone. One of the hidden jewels of Victoria.
 
 - Le Petit Dakar. African (sorry, I can't narrow it any more). This is a place where I would like to eat more frequently. Cheap, but delicious food. Sit outside
   to be smoked by the cars and enjoy the view :). My only problem with this restaurant is that it is not really a restaurant, but more like a take-out food place.
