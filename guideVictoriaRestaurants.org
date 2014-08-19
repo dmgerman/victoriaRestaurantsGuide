@@ -6,7 +6,7 @@
 #+TITLE: Guide to Restaurants
 #+CATEGORY: todo
 
-* Guide to Restaurants
+* Guide to Restaurants for Visitors
 
 Victoria has a very large number of food establishments (restaurants, bars, coffee-shops). As expected, quality varies tremendously. Fortunately price does
 not. For peoeple who come from Europe, Japan or expensive American cities, Victoria will feel cheap.
