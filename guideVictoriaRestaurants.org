@@ -1,0 +1,179 @@
+#+STARTUP: showall
+#+STARTUP: lognotestate
+#+TAGS:
+#+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
+#+DRAWERS: HIDDEN STATE
+#+TITLE: Guide to Restaurants
+#+CATEGORY: todo
+
+* Introduction
+
+Victoria has a very large number of food establishments (restaurants, bars, coffee-shops). As expected, quality varies tremendously. Fortunately price does
+not. For peoeple who come from Europe, Japan or expensive American cities, Victoria will feel cheap.
+
+Of course locals have a different view of restaurants than visitors. As Anthony Bourdain says [[https://www.youtube.com/watch?v%3D4rMBIZ2maEI]["Do not eat the hotel food"]] and instead try what the locals food.
+
+Any list has a bias. Mine is that I prefer lunch food to dinner food. I go out for lunch approximately 10 to 20 times more than dinner time. So keep that in mind.
+
+My ranking:
+
+- Fav. I really like and I go there any chance I have
+- Reg. I am a regular (I would go there at least once a month --for lunch)
+- Ok. I will eat there if the need comes but I don't think about going there on my own
+
+Unless indicated otherwise, I would it in any of these places.
+
+They are in no particular order.
+
+
+** Restaurants
+
+*** For tourists
+
+These are good for tourists because of location, and the food is decent.
+
+- Red fish, blue fish. Ok. This place is loved by visitors and locals. It is right on the water. The best feature is that you eat right along the ocean. 
+
+- Fisherman's wharf. Ok. It has two restaurants. Mexican (Puerto Vallarta Amigos)  and and Fish and Chips (Barb's Fish and Chips).
+
+- Aura. Ok. This is one of my preferred restaurants when I want to feel like a tourist. The food does not impress me but the view is worth it.
+
+- Oak Bay Marina. Ok. Same as Aura, but you need a car or the bus to get there. It has the best view in Victoria, in my opinion.
+
+- Rebar. ok. This is a place that says "west coast" the most. I liked it but got tired of it over the years (the menus remained the same). It is a popular
+  destination and I think their food is ok.
+
+- Legislative Dining Room. Feel like an MP for a couple of hours. It is a secretive place, the food is ok, but the experience is what matters. It wil show you
+  that, at least in BC, our leaders and the people sit next to each other to enjoy a meal.
+
+*** For foodies
+
+**** Dinner time
+
+- Brasserie L'ecole. Fav. French. I love this place. One of the best of Victoria. No reservations, so you have to line up and be patient. It opens at 5:30 so arrive at
+  5:15 or around 7:00 PM (come in, make your request, and go wander around; they will text you when your table is available). Great value for the money. 
+
+- Mattise. Fav. French with westcoast and modernist influence. Another one of my favorities, but one of the most expensive in town. Great, great food, but feels a bit more
+  formal. They don't serve lunch any more :(
+
+- Ulla. Reg. Modernist. Less expensive than Mattise but more than the Brasserie. 
+
+- Cafe Brio. French with westcoast influence. I go there once in a while and I am always relatively happy with the food. I have been told their wine list is good.
+
+**** Dinner or Lunch
+
+- Zambri's. Napolitan style pizza Ok. This used to be one of my favorite restaurants but it is a bit inconsistent now (at lunch time, I rarely go there for
+  dinner). Their pizza is probably the best downtown. They have specials for lunch and dinner (check their website).
+
+- Ban Thai. Reg. Good thai food (at least to me :). 
+
+- Ill Terrazo. Regular for lunch. Italian. At lunch time it feels expensive but you get a LOT of food.
+
+- Pho Vy. Fav. Vietnamese. Great pho at a very low price. With 12 dollars you can have a very good bowl of pho.
+
+- SenZushi. Fav. Japanese. Probably my most frequented restaurant at dinner time. Unfortunately their restaurant burned down so they moved to Wharf street
+  (don't go to Fort St). My Japanese friends approve of its quality.
+
+- Ebizo. Japanese. I think this is a very good japanese restaurant, but my heart is with SenZushi.
+
+**** Lunch time only
+
+- Relish. Hands down my favorite restaurant in town. French with asian influence. If you are into food, do yourself a favour and head there. Extremely good
+  value for the food (under $20) but please order a real dish, not a sandwich (they are not as good). Tell them Daniel recommended you to go and that you come
+  from far, far away to try their food. Jamie is a master cooking fish. On Saturday he serves (what I call his signature dish) Poached eggs on mackarel. It is
+  an _amazing_ dish.
+
+- Le Petit Dakar. African (sorry, I can't narrow it any more). This is a place where I would like to eat more frequently. Cheap, but delicious food. Sit outside
+  to be smoked by the cars and enjoy the view :). My only problem with this restaurant is that it is not really a restaurant, but more like a take-out food place.
+
+- Hernande'z. Reg. Mexican. Good tacos, huaraches and burritos. This is probably the best Mexican food in town.
+
+- Pink Bicycle. Burgers. I like their portbello burger. Their salads are very good. Other burgers vary in quality in my opinion, but it is a good burger joint. 
+
+- Hanks untraditional bbq. Depending on where you come from, this might be good BBQ or not (American's abstain, you have much better in your side of the world). 
+
+*** Other suggestions
+
+- Bengal Lounge. If you want a drink in a fancy place, this is it. You can just order a cappuccino and enjoy hacking on one of their lounge chairs (I sometimes
+  do :) The buffet in the Bengal is expensive, but it is good. So if you are EXTRA hungry, that is the place to go ;)
+
+- Bin 4 Lounge. Burgers. Ok. After 9 their burgers are half price. 
+
+*** Beer, wine and Bars
+
+- Sorry, I lack experience in that domain. 
+
+*** Coffee
+
+There are great baristas in town.
+
+- Habit. Two locations. I prefer the one on Pandora for hacking. No internet.
+- Macchiato. Fav. Ask for their eponymous drink. My fav. place to hack is counter by their window. No internet.
+- Chorizo.
+- Cafe Fantastico
+- Dolce Vita. Two locations. Anthony is one of the best baristas in town. he is usually in the one on Douglas.
+
+*** Other coffee
+
+- The Bay cafeteria. This is one of the best views of the harbour, if you can sit by the window. The coffee is nothing special, but you get the great view. And
+  nobody is rushing you. I know at least one more prof who uses it for quiet work time.
+- Murchies. This is place is for desserts and a tea. 
+
+*** Internet
+
+- Starbucks
+
+*** Fast food
+
+How fast do you want it? or do you think fast food equals "cheap and pay upfront"?
+
+- Hernande'z. See above.
+- Pig BBQ. Great BBQ sandwiches. Lots of food at a low price. 
+- Effes. I really like their chicken shawarma but the place is not as popular as it used to be.
+- Fat burger. I only like their vegetarian burger.
+- Sally bun (only lunch time). Ok. Seat in the patio at the back. 
+- La Cocina De Mama Oli. Try a mexican torta (sandwich). If you want real mexican food, try their Pozole on Sunday.
+
+* Vegans
+
+- Cafe Bliss Weird. If you are vegan, you gotta go there. There are two other restaurants but I have been there: Be love.
+- Lotus pond. Not for me. But Vegas love it.
+
+Be love is a new one but I have not been there yet.
+
+* The ones I would like to visit
+
+- Lure
+- Jam Caffee
+- O'Bistro
+- 
+
+* The ones I avoid (which are relatively highly ranked, and I have visited)
+
+In my own experience, these places are not worth it:
+
+- Bard & Banker Public House
+- Paggliacci's.
+- The Clay Pigeon
+- Red Fish/Blue fish. Yes, i listed it above, but I don't like it because I like to have a place to sit when I eat. And their tacos are not great, in my opinion.
+- Most restaurants on Wharf (except Sen Zushi)
+- Santiago's
+- Ca va
+- John's place.
+- Nautical Nellies
+- Swans Brewpub
+- The Noodle Box
+- Earls
+- Sticky Wicket
+- Venus sophia (they kicked me out because I was using a laptop!)
+- Cafe Mexico
+- Black Olive
+
+* The ones I don't have interest in visiting
+
+- Blue fox Cafe
+- Irish times.
+- The Old Spaguetti Factory
+- Cora.
+
+
